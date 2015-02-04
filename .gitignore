@@ -1,4 +1,7 @@
 .DS_Store
 out
-.idea\/workspace.xml
+.idea
+eclipser.iml
 eclipser.jar
+plugins
+test
